@@ -1,0 +1,23 @@
+{
+  "name": "desafio-codigo",
+  "version": "1.0.0",
+  "description": "desafio-codigo-novatics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorRod16/desafio-codigo.git"
+  },
+  "author": "vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorRod16/desafio-codigo/issues"
+  },
+  "homepage": "https://github.com/VitorRod16/desafio-codigo#readme",
+  "dependencies": {
+    "mocha": "^9.2.0"
+  }
+}
